@@ -143,7 +143,7 @@
   * [Metodos HTTP](metodosHTTP.md)
   
 #### Diferencias entre puertos:
-  *[Puertos UDP y TCP](diferenciasUDPTCP.md)
+  * [Puertos UDP y TCP](diferenciasUDPTCP.md)
 
 ### Unidad de Datos de protocolo (PDU)
   * [Datos](Datos.md)
