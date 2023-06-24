@@ -104,38 +104,38 @@
 
 ## Contenido del Glosario :
 ### Elementos de una red
-  *  [Router](Router.md) 
-  *  [Switch](Switch.md)
-  *  [Switch Capa 2 (modelo osi)](SwitchCapa2(modeloOsi).md)
-  *  [Switch Capa 3: Switch (modelo osi)](SwitchCapa3(modeloOsi).md)   
-  *  [Hub](Hub.md)
-  *  [Server](Server.md)
-  *  [Host](Host.md)
-  *  [Firewall](Firewall.md) 
-  *  [IP phone](IpPhone.md)
-  *  [Wireless Access-Point](WirelessAccessPoint.md)
-  *  [Wireless Router](WirelessRouter.md)
-  *  [Wan](WAN.md)   
-  *  [Lan](Lan.md)
-  *  [Media (Medio de Transporte)](Media.md)
+  *  [Router](documentos/Router.md) 
+  *  [Switch](documentos/Switch.md)
+  *  [Switch Capa 2 (modelo osi)](documentos/SwitchCapa2(modeloOsi).md)
+  *  [Switch Capa 3: Switch (modelo osi)](documentos/SwitchCapa3(modeloOsi).md)   
+  *  [Hub](documentos/Hub.md)
+  *  [Server](documentos/Server.md)
+  *  [Host](documentos/Host.md)
+  *  [Firewall](documentos/Firewall.md) 
+  *  [IP phone](documentos/IpPhone.md)
+  *  [Wireless Access-Point](documentos/WirelessAccessPoint.md)
+  *  [Wireless Router](documentos/WirelessRouter.md)
+  *  [Wan](documentos/WAN.md)   
+  *  [Lan](documentos/Lan.md)
+  *  [Media (Medio de Transporte)](documentos/Media.md)
   
 ### Protocolos
-  *  [DNS](DNS.md)
-  *  [FTP](FTP.md)
-  *  [SSH](SSH.md)
-  *  [SMTP](SMTP.md)
-  *  [POP](POP.md)
-  *  [SNMP](SNMP.md)
-  *  [DHCP](DHCP.md)
-  *  [HTTP/S](httpS.md)
-  *  [TCP / UDP](TCPUDP.md)
-  *  [Puertos](puertos.md)
-  *  [IPv4](ipv4.md)
-  *  [IPv6](ipv6.md) 
-  *  [ARP](ARP.md)
-  *  [MAC](MAC.md) 
-  *  [IEEE 802.11](wifi.md)
-  *  [Fibra Optica](fibraoptica.md)
+  *  [DNS](documentos/DNS.md)
+  *  [FTP](documentos/FTP.md)
+  *  [SSH](documentos/SSH.md)
+  *  [SMTP](documentos/SMTP.md)
+  *  [POP](documentos/POP.md)
+  *  [SNMP](documentos/SNMP.md)
+  *  [DHCP](documentos/DHCP.md)
+  *  [HTTP/S](documentos/httpS.md)
+  *  [TCP / UDP](documentos/TCPUDP.md)
+  *  [Puertos](documentos/puertos.md)
+  *  [IPv4](documentos/ipv4.md)
+  *  [IPv6](documentos/ipv6.md) 
+  *  [ARP](documentos/ARP.md)
+  *  [MAC](documentos/MAC.md) 
+  *  [IEEE 802.11](documentos/wifi.md)
+  *  [Fibra Optica](documentos/fibraoptica.md)
   
 #### Explicación HTTP
 
@@ -146,32 +146,32 @@
   * [Puertos UDP y TCP](diferenciasUDPTCP.md)
 
 ### Unidad de Datos de protocolo (PDU)
-  * [Datos](Datos.md)
-  * [Segmento](Segmento.md)
-  * [Paquete](Paquete.md)
-  * [Trama](Trama.md)
-  * [Bits](Bits.md)
-  * [Señal (dbm)](Señal.md)
+  * [Datos](documentos/Datos.md)
+  * [Segmento](documentos/Segmento.md)
+  * [Paquete](documentos/Paquete.md)
+  * [Trama](documentos/Trama.md)
+  * [Bits](documentos/Bits.md)
+  * [Señal (dbm)](documentos/Señal.md)
 
   
 ###   Medios
-  * [Conectores](conectores.md)
+  * [Conectores](documentos/conectores.md)
     
-  * [CABLE UTP (CAT5e y CAT6)](cableutp.md)
+  * [CABLE UTP (CAT5e y CAT6)](documentos/cableutp.md)
     
-  * [Full Duplex (802.3x)](fullduplex.md)
+  * [Full Duplex (802.3x)](documentos/fullduplex.md)
    
-  * [POE (802.3af)](poe.md)
+  * [POE (802.3af)](documentos/poe.md)
 
 ### extras
-  * [ARP vs DHCP](ARPVSDHCP.md)
-  * [Relacion bits de host con cantidad de host](BitsHost.md)
-  * [Protocolo IPv4 vs IPv6](IPv46.md)
+  * [ARP vs DHCP](documentos/ARPVSDHCP.md)
+  * [Relacion bits de host con cantidad de host](documentos/BitsHost.md)
+  * [Protocolo IPv4 vs IPv6](documentos/IPv46.md)
 
 ### apuntes de carpeta
-  * [Como armar una red](Comoarmarunared.md)
-  * [Como detectar mismas redes](DetectarmismasRedes.md)
-  * [Practica Coloquio](PracticaColoquio.md)
+  * [Como armar una red](documentos/Comoarmarunared.md)
+  * [Como detectar mismas redes](documentos/DetectarmismasRedes.md)
+  * [Practica Coloquio](documentos/PracticaColoquio.md)
 
 ### videos/articulos utiles
   * [Direccionamiento IPv4 y Subredes (Explicado)](https://youtu.be/SHbBso63X38)
